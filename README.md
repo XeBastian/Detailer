@@ -2,6 +2,10 @@
 
 A Flutter Project Assignment from HNG to get User input and Display it on the Screen.
 
+## DEMO
+https://user-images.githubusercontent.com/42617594/129875578-89ef60a9-d547-44a9-b005-16b153149e58.mp4
+  
+
 ## HNG,
 ### The HNG Internship
 Visit [HNG Tech](https://hng.tech/) for more on the Internship.
